@@ -1,0 +1,209 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The heads of reasons, for vvhich a generall councell of Protestants ought to be called together in England. Published by authoritie.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1641</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 21 KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A86143</idno>
+            <idno type="STC">Wing H1287</idno>
+            <idno type="STC">Thomason E206_14</idno>
+            <idno type="STC">ESTC R9046</idno>
+            <idno type="EEBO-CITATION">99873457</idno>
+            <idno type="PROQUEST">99873457</idno>
+            <idno type="VID">157718</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A86143)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 157718)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 36:E206[14])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The heads of reasons, for vvhich a generall councell of Protestants ought to be called together in England. Published by authoritie.</title>
+               </titleStmt>
+               <extent>[2], 20 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by E. P. for Nicolas Bourne and are to be sold at his shop at the South entrance of the Royall Exchange,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Protestant churches --  England --  Early works to 1800.</term>
+               <term>Council and synods --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-11</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2012-11</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:157718:1" rendition="simple:additions"/>
+            <p>THE HEADS OF REASONS, FOR VVHICH A Generall Councell of PROTESTANTS ought to be called together in <hi>England.</hi>
+            </p>
+            <p>
+               <hi>Published by Authoritie.</hi>
+            </p>
+            <p>LONDON, Printed by <hi>E.P.</hi> for <hi>Nicolas Bourne</hi> and are to be ſold at his ſhop at the South entrance of the Royall Exchange. 1641.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:157718:2"/>
+            <pb n="1" facs="tcp:157718:2"/>
+            <head>THE HEADS OF REASONS, for which a generall Councell of Proteſtants ought to be called together in <hi>England.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">I</seg>T may be made good firſt, That a generall Councell of Prote<g ref="char:EOLhyphen"/>ſtants will be not onely moſt uſefull unto the whole Church of God, but even very neceſſary both to the ſame and to all Proteſtants States, and moſt of all to the Church and State of <hi>England</hi> at this preſent time. Secondly, That the wavof calling it together in <hi>Great Brittaine</hi> will be eaſie. Thirdly, And that the man<g ref="char:EOLhyphen"/>ner of proceeding therein towards the re<g ref="char:EOLhyphen"/>dreſſing of publicke evils, will be ſafe and ſure, without all apparent difficulties. Therefore it muſt be concluded, that the purpoſe of calling ſuch a meeting at this time, ought to be taken to heart by the Church and State of <hi>Great Brittaine.</hi> And to
+<pb n="2" facs="tcp:157718:3"/>make the former propoſitions good, that the latter may be inferred, let us conſider the particulars thereof.</p>
+            <div n="1" type="part">
+               <head>Of the first.</head>
+               <p>Firſt, the great uſefulneſſe of ſuch a Coun<g ref="char:EOLhyphen"/>cell will be, that on the one ſide the Goſpell of Ieſus Chriſt conſidered in it ſelfe, then the Churches of God profeſſing that Goſ<g ref="char:EOLhyphen"/>pell, and with theſe all the publicke States, wherein theſe Churches dwell, will receive thereby incredible advantages, and on the other ſide the ſuperſtitions and errors of Po<g ref="char:EOLhyphen"/>pery, the hereſies of other Sects, which more ſecretly undermine the truth, and the open ſcandals and diſputes, which diſturbe the peace of many mens conſciences, which trouble and divide the Churches, and breed in end all theſe confuſions, and diſorders which ſhake publike States, will be aboli<g ref="char:EOLhyphen"/>ſhed and taken out of the way.</p>
+               <p>And to make this more plaine, it may in due time by Gods grace be made apparent to the full, that,</p>
+               <p>The Goſpell of Chriſt in it ſelfe conſide<g ref="char:EOLhyphen"/>red,
+<pb n="3" facs="tcp:157718:3"/>will by ſuch a meeting receive theſe ad<g ref="char:EOLhyphen"/>vantages.</p>
+               <p n="1">1. Matters of chiefe doubt neceſſary to be decided (leſt Atheiſme and Libertiniſme in<g ref="char:EOLhyphen"/>creaſe more and more ſtill, as they begin in many parts) may be cleared.</p>
+               <p n="2">2. Fundamentals of Chriſtian truth and faith, may be fully and invincibly ſetled by common conſent.</p>
+               <p n="3">3. The publicke profeſſion of Divine worſhip may be brought to ſome Religious uniformity, ſo farre as is expedient for the amiable correſpondency of ſeverall Chur<g ref="char:EOLhyphen"/>ches one with another, and is ſit for the edi<g ref="char:EOLhyphen"/>fication of all Chriſtians.</p>
+               <p n="4">4. The meanes of propagating the Goſpell and Kingdome of Chriſt towards thoſe that are yet in darkneſſe, and deſtitute of true and ſufficient helpes to attaine aſſuredly to ſalvation may be agreed upon, and ſet a foot for the advancement of Gods glory.</p>
+               <p>The Churches making profeſſion of the Goſpell, may by this meanes receive theſe advantages.</p>
+               <p n="1">1. All the evill intelligences which now
+<pb n="4" facs="tcp:157718:4"/>are betweene the Churches by reaſon of miſtakings and ſuperfluous diſputes will be taken away, when parties ſhall come to underſtand one anothers meaning right<g ref="char:EOLhyphen"/>ly.</p>
+               <p n="2">2. The brotherly affections of mutuall love and care for one anothers edification, &amp; preſervation in the feare of God (which is the true badge of Chriſts Diſciples) will be taken up &amp; begotten in the hearts of upright Divines who now are at a dolefull diſtance: by reaſon of miſunderſtandings, and evill ſurmiſes riſen amongſt them.</p>
+               <p n="3">3. The Churches will increaſe in number, and all the members thereof being taught by their Leaders, to keep the unity of the ſpirit in the bond of peace and love, after this mee<g ref="char:EOLhyphen"/>ting will grow in knowledge, and in godly zeale to all vertue.</p>
+               <p n="4">4 <hi>A</hi> ſpirituall correſpondency for mutuall communion of Holy things, belonging to the publike good of Religion, may be by this meanes ſetled betwixt the Churches and afterward entertained, from whence incre<g ref="char:EOLhyphen"/>dible comforts will ariſe to every one in par<g ref="char:EOLhyphen"/>ticular,
+<pb n="5" facs="tcp:157718:4"/>and to all an generall which truely profeſſe Religion.</p>
+               <p>The States wherein the united Churches doe dwell may receive from hence theſe ad<g ref="char:EOLhyphen"/>vantages.</p>
+               <p n="1">1. Within themſelves they will be more ſetled in quietneſſe then heretofore they have beene, and in all likelihood attaine to a full and conſtant peace one towards ano<g ref="char:EOLhyphen"/>ther.</p>
+               <p n="2">2. Together with inward peace all the bleſ<g ref="char:EOLhyphen"/>ſings attending the ſame in plenty and proſ<g ref="char:EOLhyphen"/>perity will follow.</p>
+               <p n="3">3. In reſpect of thoſe that are without, they will be in ſafety from the practices of evill inſtruments which have beene ſent amongſt us, and ſet a worke, or have ſet themſelves for their owne ends politickly a worke; to worke the diviſion of Proteſtants, and by their diviſion their overthrow.</p>
+               <p n="4">4. If they be aſſaulted, as now they have beene a long while agoe, more for their Re<g ref="char:EOLhyphen"/>ligion then for any other cauſe, they will re<g ref="char:EOLhyphen"/>ceive ſtrength and aſſiſtance one from ano<g ref="char:EOLhyphen"/>ther, and not be ſo farre divided in Councels
+<pb n="6" facs="tcp:157718:5"/>as hitherto they have beene to their owne overthrow.</p>
+               <p>Theſe are the advantages on the right hand, which by this Councell will clearely redound unto the Goſpell, to the Churches, and to the States Proteſtants.</p>
+               <p>The advantages on the left hand are no leſſe if not farre more apparent; for by this meanes,</p>
+               <p>The ſuperſtitious fooleries and errors of Popiſh Religion, together with the tyran<g ref="char:EOLhyphen"/>nicall practiſes, uſurpations and pretentions of Papiſts againſt Proteſtans will be brought to nought, and looſe clearely all the advan<g ref="char:EOLhyphen"/>tages which hitherto they have had againſt the Churches, and ſo the greateſt blow that ever was yet given unto Popery, will by this meanes be given to it. Which is a thing ſo cleare that no rationall man can doubt of it, if he but a little conſider that although the meeting ſhould not yet (as it needeth not) be called to condemne Popery, yet if it but ſheweth forth the truth of God, in that wherein it is fundamentally profeſſed by Proteſtants, and ſetteth their
+<pb n="7" facs="tcp:157718:5"/>Churches in ſome kind of union amongſt themſelves, and bringeth their intentions to ſome good and eaſie correſpondency, for the future manifeſtation and advance<g ref="char:EOLhyphen"/>ment of the Goſpell towards thoſe that are kept in ignorance and ſpirituall ſlavery by the Pope: it will make him fall from his uſurped Throne to the ground, and his whole imaginary Religion with him into contempt, even as Satan fell from heaven like lightning, when Chriſt ſent forth his ſe<g ref="char:EOLhyphen"/>venty diſciples, which preached the Goſpel. As for the Hereſies of other Sects which ſecretly undermine the fundamentals of ſaving truth, and ſound government; theſe doe as much harme in corrupting the minds of ſimple ones in the darke, as the Papiſts doe openly by violence and other practices upon the affections of men that are wiſe af<g ref="char:EOLhyphen"/>ter this world. Therefore to cut theſe ſhort of the advantages which they now take from our diſtractions, this meeting may greatly ſerve. For if the truth of fundamen<g ref="char:EOLhyphen"/>tals once be evidently cleared, then a courſe may beſettled, to deal both by authority with
+<pb n="8" facs="tcp:157718:6"/>thoſe that are impudently blaſphemous, ſcandalous and refractory, againſt the clearely fundamentall truth of Gods word, and likewiſe by treaties in all lenity and long-ſuffering with carefull inſtruction and Councell, to give ſatisfaction to the ſcru<g ref="char:EOLhyphen"/>pulous conſciences of the weaker ſort; by which meanes the force of their ſeduction will come to an end. For now they pre<g ref="char:EOLhyphen"/>vaile onely, becauſe no ſuch courſe is taken by common conſent: And no ſuch courſe can be taken by common conſent, except it be done with common advice; and this cannot be done, except a Generall Coun<g ref="char:EOLhyphen"/>cell of Proteſtants be called to conſult upon the matter.</p>
+               <p>The laſt advantage of the left hand re<g ref="char:EOLhyphen"/>doundeth to the Goſpell, to the Churches, to the States, and to every particular perſon therein all at once. For the removing, firſt of needleſſe diſputes; which upon this mee<g ref="char:EOLhyphen"/>ting will infallibly (if it be well ordered) follow, will prevent contentiouſneſſe, and ſtrife of parties. And if this be prevented, pu<g ref="char:EOLhyphen"/>blicke ſcandals will of themſelves ceaſe, ſo
+<pb n="9" facs="tcp:157718:6"/>farre as they proceed from that licenciouſ<g ref="char:EOLhyphen"/>neſſe, and inordinate courſe which men take to offend one another in the way of partiality and contradiction. Which way being once ſtopped, the wel-ſpring of a thouſand publicke evils will be dryed up; and if there were none other motive to in<g ref="char:EOLhyphen"/>duce his Majeſtie, and the Church and State of <hi>England,</hi> to call ſuch a meeting of Pro<g ref="char:EOLhyphen"/>teſtant Divines but this alone: namely that the fountaine of ſuch bitter waters of ſtrife may be dryed up, it would be ſufficient to draw them to this reſolution, whether they looke in particular to themſelves at this time, or in generall to the whole States of Proteſtants, wherein their ſafety is invol<g ref="char:EOLhyphen"/>ved.</p>
+               <p>And from hence ariſeth, if not an abſo<g ref="char:EOLhyphen"/>lute, yet a very urgent neceſſity of making uſe of this councell at this time; becauſe if now it be either abſolutely, or at leaſt very urgently neceſſary, not onely by reaſon of Gods expreſſe and generall Commande<g ref="char:EOLhyphen"/>ment to this effect, but alſo by reaſon of pu<g ref="char:EOLhyphen"/>blicke and private calamities, diſtractions
+<pb n="10" facs="tcp:157718:7"/>and ſcandalouſly pernitious diſorders more frequent now, then at others times, to aime at the ſeeking of peace in the profeſ<g ref="char:EOLhyphen"/>ſion of his Goſpell. And if this peace can<g ref="char:EOLhyphen"/>not truely be ſought for, or any wayes ob<g ref="char:EOLhyphen"/>tayned or hoped for, without ſuch a mee<g ref="char:EOLhyphen"/>ting of Proteſtants; then it followeth that ſuch a meeting is at this time, if not abſo<g ref="char:EOLhyphen"/>lutely, yet very urgently neceſſary.</p>
+               <p>But this may eaſily be made manifeſt, that without ſuch a meeting, a true and ſet<g ref="char:EOLhyphen"/>tled peace of Proteſtant Divines and Chur<g ref="char:EOLhyphen"/>ches, cannot be obtained, according to Gods Commandement, for the advantage of the Goſpell, and the ſafety of their pu<g ref="char:EOLhyphen"/>blicke States: therefore it muſt alſo be con<g ref="char:EOLhyphen"/>cluded, that the aime of calling ſuch a mee<g ref="char:EOLhyphen"/>ting, is not onely moſt uſefull, but alſo ei<g ref="char:EOLhyphen"/>ther abſolutely, or at leaſt very urgently ne<g ref="char:EOLhyphen"/>ceſſary.</p>
+               <p>Much could be ſaid of this, either abſo<g ref="char:EOLhyphen"/>lute or at leaſt very urgent neceſsity of pro<g ref="char:EOLhyphen"/>curing peace and unity, as well amongſt Proteſtants in generall, as in particular amongſt the Churches of <hi>Great Brittaine,</hi>
+                  <pb n="11" facs="tcp:157718:7"/>and of the peculiar advantages, which thoſe of <hi>Great Brittaine</hi> ſhould gaine more then others, by calling a meeting of Pro<g ref="char:EOLhyphen"/>teſtants to that effect, but now I will ſur<g ref="char:EOLhyphen"/>ceaſe from this ſubject, and leave the mat<g ref="char:EOLhyphen"/>ter to the more ſerious conſideration of the judicious and pious Reader, who can diſ<g ref="char:EOLhyphen"/>cerne what the true cauſes and remedies of publicke evils are, and how the ſafety of the Church and State of <hi>England</hi> at this time cannot be procured without ſome eſpeciall relation, which it muſt have towards other Proteſtant Churches and States.</p>
+            </div>
+            <div n="2" type="part">
+               <head>Of the ſecond.</head>
+               <p>To ſhew that in <hi>England</hi> ſuch a meeting may eaſily be called together, I muſt in the firſt place preſuppoſe that the State will be free from troubles and dangers of warre, and that there is a willingneſſe in the King and Clergy to have it called, and then in the ſecond place it muſt be made apparent, 1. That the minds and diſpoſitions, of the chiefe of all Proteſtant parties, are now
+<pb n="12" facs="tcp:157718:8"/>ſufficiently prepared to embrace and enter<g ref="char:EOLhyphen"/>taine with gladneſſe ſuch a motion, if it ſhould be propoſed unto them in a conve<g ref="char:EOLhyphen"/>nient way by any one of eminent Authori<g ref="char:EOLhyphen"/>ty, which is able to be at ſome extraordi<g ref="char:EOLhyphen"/>nary charges to that effect.</p>
+               <p n="2">2. That the moſt judicious Proteſtant Divines and Stateſmen in every party doe judge ſuch a meeting to be not only uſefull, but neceſſary to make an end of our divi<g ref="char:EOLhyphen"/>ſions.</p>
+               <p n="3">3. That not onely the moſt judicious, but even almoſt all ſuch as are of any note, have given already their conſent and advice towards ſuch a meeting; and amongſt theſe all the truely peaceable and godly wiſh earneſtly for the calling of it toge<g ref="char:EOLhyphen"/>ther, ever ſince the Evangelicall States of <hi>Germany</hi> have made a Decree in the yeare 1634 that at ſome time convenient, when the affaires of the Empire ſhould ſettle a little, ſuch a meeting ſhould be cal<g ref="char:EOLhyphen"/>led.</p>
+               <p>Now ſeeing that time is not yet come in <hi>Germany,</hi> nor like to come in haſt,
+<pb n="13" facs="tcp:157718:8"/>and nevertheleſſe on all ſides the neceſſities of ſuch a remedy, to cure publicke evills grow daily greater and greater. Therefore the Church and ſtate of <hi>England,</hi> is to be en<g ref="char:EOLhyphen"/>treated for its owne ſafety and peace, and for the love of Gods glory, to helpe the publicke good in this behalfe.</p>
+               <p n="4">4. That the further preparatives, namely to call,</p>
+               <p n="1">1. Thoſe that are to be called. 2. To deal particularly with them, that they may be preinformed of the ſcope &amp; manner of trea<g ref="char:EOLhyphen"/>ting intended. And 3. To order and precon<g ref="char:EOLhyphen"/>ceive the whole way of proceeding to<g ref="char:EOLhyphen"/>wards a full and happy concluſion of the treaty; ſuch as may be without exception on all ſides, will not require above a years ſpace, after the reſolution is once taken to call the Counſell together. All which may be made palpably and particularly, manifeſt in a very ſhort ſpace, if it once ap<g ref="char:EOLhyphen"/>peare, that this motion is not ſlighted. And if it be ſlighted, I doe hereby declare that I have waſhed mine hands in innocency, and cleared my conſcience from that guilt,
+<pb n="14" facs="tcp:157718:9"/>which will lye heavie upon thoſe, who are incendiaries of ſtrife, or acceſſory thereun<g ref="char:EOLhyphen"/>to, or being able, will not helpe to redreſſe and to heale the breaches of <hi>Sion,</hi> which ſtrife and ambition have made and aug<g ref="char:EOLhyphen"/>ment daily.</p>
+            </div>
+            <div n="3" type="part">
+               <head>Of the third,</head>
+               <p>To ſhew that the manner of proceeding in ſuch a meeting of Proteſtanes may be ſuch as will certainly without all apparent difficultie reach the ends, wherefore it ought to be called: Wee muſt conceive what the properanddirect ſcope of the com<g ref="char:EOLhyphen"/>ming together of this Counſell ſhould be: How the Divines ſhould be brought toge<g ref="char:EOLhyphen"/>ther? how, when they are come together he that calleth them ſhould deal with them, to oblige them to the ſcope for which they meet? What they ſhould treat off? how they ſhould ſeverally conceive, and joyntly conferre their thoughts? how the gene<g ref="char:EOLhyphen"/>rall concluſion, and conſent of all their re<g ref="char:EOLhyphen"/>ſolutions is to be taken up and ratified? and laſtly Low the ſame is to be introduced into all the Churches; for their mutuall
+<pb n="15" facs="tcp:157718:9"/>union, peace, and edification?</p>
+               <p>Of theſe heads to ſpeake but a word, conceive thus of each.</p>
+               <p n="1">1. Firſt, the ſcope for which the Coun<g ref="char:EOLhyphen"/>cell ſhould be called, ſhould not be dire<g ref="char:EOLhyphen"/>ctly to decide matters of particular con<g ref="char:EOLhyphen"/>troverſie, or to make determinations and Decrees, whereunto the conſciences of all men, as by abſolute command of that Aſſembly ſhould be obliged implicitly to ſubmit their beleefe, and blindly to give obedience, but rather to declare their meanings, onely concerning the union of Proteſtants in fundamentall truthes and formes of Doctrines moſt neceſſary for edification, and to give their advi<g ref="char:EOLhyphen"/>ces concerning the way of uniting Pro<g ref="char:EOLhyphen"/>teſtants in the publicke profeſſion of thoſe truthes, and in the meanes of peace<g ref="char:EOLhyphen"/>able government for mutuall edifica<g ref="char:EOLhyphen"/>tion in time to come, and for taking away of ſcandals, and preventing of the cauſes of future breaches.</p>
+               <p n="2">2. The way of bringing them together
+<pb n="16" facs="tcp:157718:10"/>muſt be by intreaty made to the Supe<g ref="char:EOLhyphen"/>riours of all parties, requiring that they would ſend, ſome able judicious and godly men ſit to give counſell in ſuch ca<g ref="char:EOLhyphen"/>ſes. And to make this intreaty effectuall, ſome ſit Meſſenger, or Meſſengers muſt be uſed to inſinuate the purpoſe of their calling together unto the State whence they are called, leſt jealouſies riſe and hinder the proceeding of the worke.</p>
+               <p n="3">3. When they are come together, they are to be obliged unto the ſcope of their meeting by a ſolemne forme of Oath, binding them firſt to ſincerity in repect of their meanings, which are to be declared in the preſence of God, and then to certaine other conditions not to be refuſed by any; whereby the dan<g ref="char:EOLhyphen"/>ger of raſh contradictions, needleſſe di<g ref="char:EOLhyphen"/>ſputes, and frivolous tergiverſations in profitable matters may be prevented, and the true manner of their treaty limited within due bounds.</p>
+               <p n="4">4. The ſubjects whereof they ſhould
+<pb n="17" facs="tcp:157718:10"/>treate are the particulars, contained un<g ref="char:EOLhyphen"/>der the ends heretofore named, whereof a liſt muſt be made, with a cleare demon<g ref="char:EOLhyphen"/>ſtration of the coherence of every Sub<g ref="char:EOLhyphen"/>ject with another; and of the impor<g ref="char:EOLhyphen"/>tance of every one for the attaining of the chiefe end to which it muſt be referred in the conſideration which is to be taken of it.</p>
+               <p n="5">5. The manner of conceiving ſeveral<g ref="char:EOLhyphen"/>ly and conferring joyntly their thoughts, muſt be done in write.</p>
+               <p>Therefore to conceive their determi<g ref="char:EOLhyphen"/>nations and counſels, the ſubjects of me<g ref="char:EOLhyphen"/>ditation are to be given to every Colledge apart in write, by way of queſtion propo<g ref="char:EOLhyphen"/>ſed: whereunto the manner of anſwearing is to be prelimited, in reſpect of the grounds whence the anſwear is to be ta<g ref="char:EOLhyphen"/>ken; of the forme, how it ſhould be ſet down, and of the end to which it is more diſtinctly to be referred. And to conferre their determinations and counſels joynt<g ref="char:EOLhyphen"/>ly,
+<pb n="16" facs="tcp:157718:11"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="17" facs="tcp:157718:11"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="18" facs="tcp:157718:12"/> it may be done by a Committee of ſome few, which hee who calleth them together, may appoint. And this Committee ſhould contract the varie<g ref="char:EOLhyphen"/>tie of all the anſweres, to ſo few heads as may be, without omitting any thing which may be thought ma<g ref="char:EOLhyphen"/>teriall.</p>
+               <p n="6">6. The generall conſent of all their reſolutions is to be gathered from their owne declarations into one ſumme, yet by diſtinct heads of matters ſet downe. And it ſhould be given to eve<g ref="char:EOLhyphen"/>ry one ſeverally to be peruſed, before it be ratified, as an Act of the Coun<g ref="char:EOLhyphen"/>cell. And when all are willing to ac<g ref="char:EOLhyphen"/>knowledge it as their owne Act, then it ſhould be ſubſcribed.</p>
+               <p n="7">7. The manner of introducing the Acts of ſuch a Councell in all parti<g ref="char:EOLhyphen"/>cular Churches, ſhould be determi<g ref="char:EOLhyphen"/>ned in the Councell it ſelfe, ſhew<g ref="char:EOLhyphen"/>ing what courſe ſhould be taken every
+<pb n="19" facs="tcp:157718:12"/>where to acquaint the Miniſters there<g ref="char:EOLhyphen"/>with in all Churches, ſo as they may receive full ſatisfaction in caſe of any doubt, and have no cauſe to com<g ref="char:EOLhyphen"/>plaine, that a yoake of humane con<g ref="char:EOLhyphen"/>ſtitutions is put upon them, by the au<g ref="char:EOLhyphen"/>thority of ſome few, or that they are too much limitted in that liberty, which Chriſt giveth to his Servants in the Goſpell, to prophecie and pra<g ref="char:EOLhyphen"/>ctice things tending to private or pu<g ref="char:EOLhyphen"/>blike edification. All this may be done without the formalitie and trouble of many Seſſions, and publicke meetings which might perhaps breed ſome in<g ref="char:EOLhyphen"/>conveniences here needleſſe to be men<g ref="char:EOLhyphen"/>tioned.</p>
+               <p>Laſtly, the charges will not be a great burthen to <hi>England,</hi> although it ſhould beare the ſame all alone, and although the meeting ſhould laſt a yeare or two: but it may be made good,
+<pb n="20" facs="tcp:157718:13"/>that in one yeare ſpace and ſooner alſo, the worke may be done. And that moſt of the Proteſtant States will be wil<g ref="char:EOLhyphen"/>ling to ſend their owne Divines, at their owne charges. And no doubt a free contribution will eaſily be obtained of all good Prote<g ref="char:EOLhyphen"/>ſtants, to bring ſuch a happy worke to paſſe.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
